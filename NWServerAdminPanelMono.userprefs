@@ -1,0 +1,26 @@
+﻿<Properties>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="d:\Projects\NWServerAdminPanelMono\NWServerAdminPanelMono\Models\AccountModels.cs">
+    <Files>
+      <File FileName="NWServerAdminPanelMono\Views\Web.config" Line="27" Column="1" />
+      <File FileName="d:\Projects\NWServerAdminPanelMono\NWServerAdminPanelMono\Controllers\AreasController.cs" Line="8" Column="33" />
+      <File FileName="d:\Projects\NWServerAdminPanelMono\NWServerAdminPanelMono\Controllers\UploadController.cs" Line="23" Column="10" />
+      <File FileName="d:\Projects\NWServerAdminPanelMono\NWServerAdminPanelMono\Models\AccountModels.cs" Line="4" Column="54" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State expanded="True">
+          <Node name="NWServerAdminPanelMono" expanded="True">
+            <Node name="References" expanded="True" selected="True" />
+            <Node name="Controllers" expanded="True" />
+            <Node name="Models" expanded="True" />
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+</Properties>
